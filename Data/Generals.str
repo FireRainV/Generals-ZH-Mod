@@ -25863,7 +25863,7 @@ CONTROLBAR:ChinaBoss_ToolTipChinaBuildMIG
 END
 
 CONTROLBAR:USABoss_ToolTipUSABuildPatriotBattery
-"Ground and air defense. Fires both a laser and EMP missiles \n \n Power Required: 5"
+"Ground and air defense. Fires both a laser and EMP missiles \n \n Power Required: 7"
 END
 
 CONTROLBAR:ToolTipGLABuildSCUDLauncherNoChoice
