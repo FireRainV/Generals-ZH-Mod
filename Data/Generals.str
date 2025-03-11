@@ -1,3 +1,7 @@
+GUI:Credits
+"FireRainV's Mod - v0.67"
+END
+
 ACADEMY:AlternateMouseInterface
 "One new addition is the 'Alternate Mouse Interface' option located in the Options Menu. If you are used to commanding armies using right click as your action button then this may help you get a better handle on your army."
 END
@@ -315,7 +319,7 @@ Color:Blue
 END
 
 Color:Gold
-"Gold"
+"Yellow"
 END
 
 Color:Green
@@ -1127,11 +1131,11 @@ CONTROLBAR:DragonFlame
 END
 
 CONTROLBAR:DropNapalmBomb
-"&Drop a Napalm Bomb"
+"&Drop an Napalm Bomb"
 END
 
 CONTROLBAR:DropNukeBomb
-"&Drop a Nuke Bomb"
+"&Drop an Nuke Bomb"
 END
 
 CONTROLBAR:ECMDisableVehicle
@@ -1423,7 +1427,7 @@ CONTROLBAR:NeutronMissileShortcut
 END
 
 CONTROLBAR:NeutronWarhead
-"N&eutron Shells"
+"Ne&utron Shells"
 END
 
 CONTROLBAR:NoHotKeyArtilleryBarrage
@@ -1667,11 +1671,11 @@ CONTROLBAR:Tank_TooltipUpgradeChinaNuclearTanks
 END
 
 CONTROLBAR:Tank_TooltipUpgradeChinaOverlordGattlingCannon
-"Build a Gattling Cannon on this Emperor"
+"Build a Gattling Cannon on this Emperor. Can spot hidden enemy units"
 END
 
 CONTROLBAR:Tank_TooltipUpgradeChinaUraniumShells
-"+25% shot damage on Battlemaster and Emperor"
+"+25% shot damage on Battlemaster and Emperor Overlord"
 END
 
 CONTROLBAR:TankParadrop
@@ -2171,7 +2175,7 @@ CONTROLBAR:TooltipFireNukeMissile
 END
 
 CONTROLBAR:TooltipFireParticleUplinkCannon
-"Strong vs. Buildings \n \n Countdown Timer: 4:00"
+"Strong vs. Everything \n \n Countdown Timer: 4:00"
 END
 
 CONTROLBAR:TooltipFireRadarVanScan
@@ -2319,7 +2323,7 @@ CONTROLBAR:ToolTipGLABuildScorpion
 END
 
 CONTROLBAR:ToolTipGLABuildSCUDLauncher
-"Can be equipped with either an explosive or biological warhead \n \n Strong vs. buildings, infantry \n Weak vs. tanks, aircraft"
+"Launches a powerful SCUD missile \n Can be equipped with either an explosive or biological warhead \n \n Strong vs. buildings, infantry \n Weak vs. tanks, aircraft"
 END
 
 CONTROLBAR:ToolTipGLABuildScudStorm
@@ -2647,7 +2651,7 @@ CONTROLBAR:ToolTipUpgradeChinaEMPMines
 END
 
 CONTROLBAR:TooltipUpgradeChinaFusionReactors
-"Improves Emperor and Battlemaster speed"
+"Improves Emperor Overlord and Battlemaster speed"
 END
 
 CONTROLBAR:TooltipUpgradeChinaHelixBattleBunker
@@ -2655,7 +2659,7 @@ CONTROLBAR:TooltipUpgradeChinaHelixBattleBunker
 END
 
 CONTROLBAR:TooltipUpgradeChinaHelixGattlingCannon
-"Build a Gattling Cannon on this Helix"
+"Build a Gattling Cannon on this Helix. Can spot hidden enemy units"
 END
 
 CONTROLBAR:TooltipUpgradeChinaHelixPropagandaTower
@@ -2679,7 +2683,7 @@ CONTROLBAR:TooltipUpgradeChinaOverlordBattleBunker
 END
 
 CONTROLBAR:TooltipUpgradeChinaOverlordGattlingCannon
-"Build a Gattling Cannon on this Overlord"
+"Build a Gattling Cannon on this Overlord. Can spot hidden enemy units"
 END
 
 CONTROLBAR:TooltipUpgradeChinaOverlordPropagandaTower
@@ -2975,7 +2979,7 @@ CONTROLBAR:TooltipUSAUpgradeCompositeArmor
 END
 
 CONTROLBAR:TooltipUSAUpgradeCountermeasures
-"All aircraft capable of evading 50% of missiles fired at them"
+"All aircraft capable of evading 50% of missiles fired at them.\nAircraft get +25% armor"
 END
 
 CONTROLBAR:TooltipUSAUpgradeCruiseMissile
@@ -14447,11 +14451,11 @@ GUI:BioBranchEntry_Pos1
 END
 
 GUI:BioBranchEntry_Pos10
-"."
+"US Special Forces"
 END
 
 GUI:BioBranchEntry_Pos11
-"."
+"Unknown"
 END
 
 GUI:BioBranchEntry_Pos2
@@ -14651,15 +14655,15 @@ GUI:BioFeatures_Pos1
 END
 
 GUI:BioFeatures_Pos10
-"unimplemented"
+"Uses the best of the best \n All units unlocked \n Mixed technologies \n Best of USA \n Advanced defenses \n No weaknesses"
 END
 
 GUI:BioFeatures_Pos11
-"unimplemented"
+"Uses the best of the best \n All units unlocked \n Mixed technologies \n Best of GLA \n Advanced defenses \n No weaknesses"
 END
 
 GUI:BioFeatures_Pos2
-"Tanks start with Uranium Shells \n Tactical Nuke MiG \n Isotope Stability upgrade \n Advanced Nuclear Reactor \n Nuke Bomber \n Starts with Nuke Cannons"
+"Tanks start with Uranium Shells \n Tanks start with Nuclear Tanks \n Tactical Nuke MiG \n Isotope Stability upgrade \n Advanced Nuclear Reactor \n Nuke Bomber \n Starts with Nuke Cannons"
 END
 
 GUI:BioFeatures_Pos3
@@ -14679,7 +14683,7 @@ GUI:BioFeatures_Pos6
 END
 
 GUI:BioFeatures_Pos7
-"Assault Troop Transport \n Assault Helix \n Attack Outpost \n Fortified Bunkers \n Mini-Gunner \n Black Lotus hacks faster \n Hackers hack faster \n Mini-Gunner Paradrop \n All Infantry start as veterans"
+"Assault Troop Transport \n Assault Helix \n Attack Outpost \n Fortified Bunkers \n Mini-Gunner \n Black Lotus hacks faster \n Hackers hack faster \n Mini-Gunner Paradrop \n Infantry start with Nationalism \n All Infantry start as veterans"
 END
 
 GUI:BioFeatures_Pos8
@@ -14687,6 +14691,10 @@ GUI:BioFeatures_Pos8
 END
 
 GUI:BioFeatures_Pos9
+"Uses the best of the best \n All units unlocked \n Mixed technologies \n Best of China \n Advanced defenses \n No weaknesses"
+END
+
+GUI:BioFeatures_OLDBOSS
 "Uses the best of the best \n All heroes \n All superweapons \n Diverse generals powers \n Units drawn from all factions \n Advanced defenses \n"
 END
 
@@ -14711,11 +14719,11 @@ GUI:BioNameEntry_Pos1
 END
 
 GUI:BioNameEntry_Pos10
-"TBD"
+"General Ironside"
 END
 
 GUI:BioNameEntry_Pos11
-"TBD"
+"General Mohmar 'Deathstrike'"
 END
 
 GUI:BioNameEntry_Pos2
@@ -14763,11 +14771,11 @@ GUI:BioRankEntry_Pos1
 END
 
 GUI:BioRankEntry_Pos10
-"."
+"5 Star General"
 END
 
 GUI:BioRankEntry_Pos11
-"."
+"Unknown"
 END
 
 GUI:BioRankEntry_Pos2
@@ -14815,11 +14823,11 @@ GUI:BioStrategyEntry_Pos1
 END
 
 GUI:BioStrategyEntry_Pos10
-"TBD"
+"Unknown"
 END
 
 GUI:BioStrategyEntry_Pos11
-"TBD"
+"Unknown"
 END
 
 GUI:BioStrategyEntry_Pos2
@@ -14967,11 +14975,11 @@ GUI:CancelMapSelect
 END
 
 GUI:CannotConnectToServserv
-"Unable to establish a connection with Command and Conquer Generals Zero Hour servers. Please check your internet connection"
+"OK"
 END
 
 GUI:CannotConnectToServservTitle
-"CANNOT CONNECT"
+"OK"
 END
 
 GUI:CanPatchForOnline
@@ -15043,7 +15051,7 @@ GUI:ChallengeWinText
 END
 
 GUI:CheckingForPatches
-"Checking for Updates"
+"CANCEL"
 END
 
 GUI:Cheer
@@ -15276,10 +15284,6 @@ END
 
 GUI:CreateTeam9Description
 "Creates team 9 from currently selected units"
-END
-
-GUI:Credits
-"CREDITS"
 END
 
 GUI:CurrentHotkey
@@ -15671,7 +15675,7 @@ GUI:GeneralsChallenge
 END
 
 GUI:GeneralsOnline
-"ONLINE"
+"DON'T CLICK"
 END
 
 GUI:GetMapPack
@@ -16459,7 +16463,7 @@ GUI:NetgearDelay
 END
 
 GUI:Network
-"NETWORK"
+"LAN"
 END
 
 GUI:NetworkError
@@ -17231,7 +17235,7 @@ GUI:Side
 END
 
 GUI:SinglePlayer
-"SOLO PLAY"
+"SINGLEPLAYER"
 END
 
 GUI:Skirmish
@@ -18283,15 +18287,15 @@ INI:RankLevel5
 END
 
 INI:RankLevel6
-"Mr. Bad Dude (Rank 6)"
+"6 Star General"
 END
 
 INI:RankLevel7
-"Dr. Death (Rank 7)"
+"7 Star General"
 END
 
 INI:RankLevel8
-"Ultimate Deadly Dude (Rank 8)"
+"8 Star General"
 END
 
 KEYBOARD:Alt+
@@ -22679,7 +22683,7 @@ OBJECT:Tangula
 END
 
 OBJECT:Tank_Overlord
-"Emperor"
+"Emperor Overlord"
 END
 
 OBJECT:TankerTruck
@@ -24027,11 +24031,11 @@ TOOLTIP:BioStrategyLong_Pos1
 END
 
 TOOLTIP:BioStrategyLong_Pos10
-"."
+"General Ironside demands the use of all USA technology to defeat his enemies"
 END
 
 TOOLTIP:BioStrategyLong_Pos11
-"."
+"General Mohmar 'Deathstrike' demands the use of all GLA technology to defeat his enemies"
 END
 
 TOOLTIP:BioStrategyLong_Pos2
@@ -24063,6 +24067,10 @@ TOOLTIP:BioStrategyLong_Pos8
 END
 
 TOOLTIP:BioStrategyLong_Pos9
+"General 'Tigress' Leiong Leang demands the use of all China technology to defeat her enemies"
+END
+
+TOOLTIP:BioStrategyLong_OLDBOSS
 "General 'Tigress' Leiong Leang demands the use of all other technology to defeat her enemies"
 END
 
@@ -25684,4 +25692,196 @@ END
 
 CONTROLBAR:AirF_ToolTipUSAScienceCarpetBomb
 "Allows you to call in a B2 Stealth Bomber to carpet bomb an area \n \n Deploy from: Strategy Center"
+END
+
+SIDE:ChinaBossGeneral
+"China Boss General"
+END
+
+INI:FactionChinaBossGeneral
+"China Boss General"
+END
+
+SIDE:AmericaBossGeneral
+"USA Boss General"
+END
+
+INI:FactionAmericaBossGeneral
+"USA Boss General"
+END
+
+SIDE:GLABossGeneral
+"GLA Boss General"
+END
+
+INI:FactionGLABossGeneral
+"GLA Boss General"
+END
+
+OBJECT:USABoss_PatriotBattery
+"EMP Laser Defense Turret"
+END
+
+CONTROLBAR:USABoss_ConstructAmericaPatriotBattery
+"EMP Laser Defense &Turret"
+END
+
+CONTROLBAR:GLABoss_ConstructGLAInfantryRebel
+"Stealth Toxin Re&bel"
+END
+
+OBJECT:BossCommandCenter
+"Boss Command Center"
+END
+
+CONTROLBAR:USABoss_ConstructAmericaCommandCenter
+"Boss &Command Center"
+END
+
+CONTROLBAR:GLABoss_ConstructGLACommandCenter
+"Boss &Command Center"
+END
+
+CONTROLBAR:ChinaBoss_ConstructChinaCommandCenter
+"Boss &Command Center"
+END
+
+CONTROLBAR:GLABoss_ConstructFakeGLACommandCenter
+"Fake Boss &Command Center"
+END
+
+CONTROLBAR:ChinaBoss_ConstructChinaTankEmperor
+"Emperor O&verlord"
+END
+
+CONTROLBAR:GLABoss_UpgradeGLAScorpionRocket
+"&Scorpion Rocket"
+END
+
+CONTROLBAR:ChinaBoss_ToolTipChinaScienceParadrop
+"Drop Mini-Gunners and Battlemasters from the air \n \n Rank 1: 1 Battlemaster + 4 Mini-Gunners \n Rank 2: 2 Battlemasters + 8 Mini-Gunners \n Rank 3: 3 Battlemasters + 12 Mini-Gunners \n \n Deploy from: Command Center"
+END
+
+CONTROLBAR:ChinaBoss_TooltipParaDrop
+"Drops Mini-Gunners and Battlemasters by plane \n \n Countdown Timer: 4:00"
+END
+
+CONTROLBAR:ChinaBoss_UpgradeChinaVehicleHelixTransportCommandSet
+"Sw&itch to Transport Slots"
+END
+
+CONTROLBAR:ChinaBoss_UpgradeChinaVehicleHelixUpgradesCommandSet
+"Sw&itch to Upgrade Slots"
+END
+
+CONTROLBAR:ToolTip_ChinaBoss_UpgradeChinaVehicleHelixTransportCommandSet
+"Switch command bar to transport slots"
+END
+
+CONTROLBAR:ToolTip_ChinaBoss_UpgradeChinaVehicleHelixUpgradesCommandSet
+"Switch command bar to upgrade slots"
+END
+
+CAMPAIGN:CHALLENGE_9
+"China Boss General Challenge"
+END
+
+CAMPAIGN:CHALLENGE_10
+"USA Boss General Challenge"
+END
+
+CAMPAIGN:CHALLENGE_11
+"GLA Boss General Challenge"
+END
+
+INI:FactionUltimate
+"Ultimate"
+END
+
+TOOLTIP:BioStrategyLong_Ulti
+"A combination of all 12 factions into 1 under the control of a mysterious general"
+END
+
+GUI:BioFeatures_Ulti
+"All Heroes \n All Super Weapons \n Diverse Generals Powers \n Units drawn from all factions \n General Powers are maxed out \n Sneak Attack unlocked earlier"
+END
+
+SIDE:Ultimate
+"Ultimate"
+END
+
+CONTROLBAR:Ulti_CommandCenterFromShortcut
+"Boss Command Center"
+END
+
+CONTROLBAR:Early_SneakAttack
+"Sneak Atta&ck"
+END
+
+CONTROLBAR:Ulti_EmergencyRepair
+"Emer&gency Repair"
+END
+
+CONTROLBAR:ChinaBoss_UpgradeHelixNapalmBomb
+"&Nuclear Napalm Bomb"
+END
+
+CONTROLBAR:ChinaBoss_ChinaUpgradeHelixNapalmBomb
+"Enables this Helix to drop nuclear napalm bombs"
+END
+
+CONTROLBAR:ChinaBoss_DropNapalmBomb
+"&Drop an Nuclear Napalm Bomb"
+END
+
+CONTROLBAR:ChinaBoss_ToolTipDropNapalmBomb
+"Strong against most ground targets \n Drops a mix of napalm and a tactical nuke on the target area"
+END
+
+CONTROLBAR:Nuke_ConstructChinaJetMIG
+"Nuke Mi&G"
+END
+
+OBJECT:Nuke_MIG
+"Nuke MiG"
+END
+
+CONTROLBAR:ChinaBoss_ConstructChinaJetMIG
+"Super Mi&G"
+END
+
+OBJECT:ChinaBoss_MIG
+"Super MiG"
+END
+
+CONTROLBAR:Nuke_ToolTipChinaBuildMIG
+"Fires tactical nukes \n \n Strong vs. tanks, light vehicles \n Weak vs. missile armed infantry, anti-air defenses"
+END
+
+CONTROLBAR:ChinaBoss_ToolTipChinaBuildMIG
+"Creates a fire-storm in large groups and fires tactical nukes \n \n Strong vs. tanks, light vehicles \n Weak vs. missile armed infantry, anti-air defenses"
+END
+
+CONTROLBAR:USABoss_ToolTipUSABuildPatriotBattery
+"Ground and air defense. Fires both a laser and EMP missiles \n \n Power Required: 5"
+END
+
+CONTROLBAR:StayInAir
+"Stay in Ai&r"
+END
+
+CONTROLBAR:Standby
+"S&tandby"
+END
+
+CONTROLBAR:ToolTipStayInAir
+"Order unit to circle around in the air at the specified location"
+END
+
+CONTROLBAR:ToolTipGLABuildSCUDLauncherNoChoice
+"Launches a powerful SCUD missile \n \n Strong vs. buildings, infantry \n Weak vs. tanks, aircraft"
+END
+
+CONTROLBAR:ToolTipStandby
+"Order unit to not target enemies at the specified location"
 END
