@@ -1,5 +1,5 @@
 GUI:Credits
-"FireRainV's Mod - v0.67"
+"FireRainV's Mod - v0.67 (V)"
 END
 
 ACADEMY:AlternateMouseInterface
@@ -25866,22 +25866,6 @@ CONTROLBAR:USABoss_ToolTipUSABuildPatriotBattery
 "Ground and air defense. Fires both a laser and EMP missiles \n \n Power Required: 5"
 END
 
-CONTROLBAR:StayInAir
-"Stay in Ai&r"
-END
-
-CONTROLBAR:Standby
-"S&tandby"
-END
-
-CONTROLBAR:ToolTipStayInAir
-"Order unit to circle around in the air at the specified location"
-END
-
 CONTROLBAR:ToolTipGLABuildSCUDLauncherNoChoice
 "Launches a powerful SCUD missile \n \n Strong vs. buildings, infantry \n Weak vs. tanks, aircraft"
-END
-
-CONTROLBAR:ToolTipStandby
-"Order unit to not target enemies at the specified location"
 END
