@@ -1,3 +1,4 @@
+CLEAR CLIPBOARD
 DELAY : 1000
 COMMENT : Set Window Position
 DELAY : 500
@@ -6,7 +7,7 @@ COMMENT : Open Player List
 DELAY : 1000
 Mouse : 561 : 213 : Click : 0 : 0 : 0
 DELAY : 1000
-Mouse : 582 : 671 : Click : 0 : 0 : 0
+Mouse : 582 : 677 : Click : 0 : 0 : 0
 DELAY : 1000
 COMMENT : Go to Top
 REPEAT : 15 : 0 : 0 : Enter the number of iterations: : 0 : 0
@@ -40,7 +41,8 @@ DELAY : 500
 REPEAT : 2 : 0 : 0 : Enter the number of iterations: : 0 : 0
 Mouse : 789 : 439 : Click : 0 : 0 : 0
 ENDREPEAT
-TYPE TEXT : SkirmishAmericaBossGeneral
+SET CLIPBOARD : SkirmishAmericaBossGeneral : 0 : Please enter the text to store in clipboard:
+PASTE
 DELAY : 500
 Mouse : 742 : 443 : Click : 0 : 0 : 0
 DELAY : 500
@@ -49,7 +51,8 @@ DELAY : 500
 REPEAT : 30 : 0 : 0 : Enter the number of iterations: : 0 : 0
 Keyboard : Delete : KeyPress
 ENDREPEAT
-TYPE TEXT : SkirmishAmericaBossGeneral
+SET CLIPBOARD : SkirmishAmericaBossGeneral : 0 : Please enter the text to store in clipboard:
+PASTE
 DELAY : 500
 COMMENT : Add China
 Mouse : 739 : 715 : Click : 0 : 0 : 0
@@ -65,7 +68,8 @@ DELAY : 500
 REPEAT : 2 : 0 : 0 : Enter the number of iterations: : 0 : 0
 Mouse : 789 : 439 : Click : 0 : 0 : 0
 ENDREPEAT
-TYPE TEXT : SkirmishChinaBossGeneral
+SET CLIPBOARD : SkirmishChinaBossGeneral : 0 : Please enter the text to store in clipboard:
+PASTE
 DELAY : 500
 Mouse : 741 : 443 : Click : 0 : 0 : 0
 DELAY : 500
@@ -74,7 +78,8 @@ DELAY : 500
 REPEAT : 30 : 0 : 0 : Enter the number of iterations: : 0 : 0
 Keyboard : Delete : KeyPress
 ENDREPEAT
-TYPE TEXT : SkirmishChinaBossGeneral
+SET CLIPBOARD : SkirmishChinaBossGeneral : 0 : Please enter the text to store in clipboard:
+PASTE
 DELAY : 500
 LABEL : Add GLA
 Mouse : 801 : 746 : Click : 0 : 0 : 0
@@ -88,7 +93,8 @@ DELAY : 1000
 REPEAT : 2 : 0 : 0 : Enter the number of iterations: : 0 : 0
 Mouse : 789 : 439 : Click : 0 : 0 : 0
 ENDREPEAT
-TYPE TEXT : SkirmishGLABossGeneral
+SET CLIPBOARD : SkirmishGLABossGeneral : 0 : Please enter the text to store in clipboard:
+PASTE
 DELAY : 500
 Mouse : 748 : 444 : Click : 0 : 0 : 0
 DELAY : 500
@@ -97,4 +103,6 @@ DELAY : 500
 REPEAT : 20 : 0 : 0 : Enter the number of iterations: : 0 : 0
 Keyboard : Delete : KeyPress
 ENDREPEAT
-TYPE TEXT : SkirmishGLABossGeneral
+SET CLIPBOARD : SkirmishGLABossGeneral : 0 : Please enter the text to store in clipboard:
+PASTE
+CLEAR CLIPBOARD
