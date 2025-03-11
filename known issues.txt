@@ -1,0 +1,15 @@
+Major:
+
+The command center of the new armies is the same as their normal counterpart. However, it will say "Boss Command Center" when hovered by.
+
+An enemy GLA Boss Toxin Network looks weird when revealed by stealth detectors.
+
+Terrorists cannot make a car bomb. The reason being is because the civilian army is removed to allow the new bosses to be controllable by a CPU.
+
+
+
+Minor:
+
+Some general voice lines in challenge mode won't be triggered if the new armies are used because only the win condition was added.
+
+Balancing changes are still WIP, I had no players to test whether the new balancing is good or not.
