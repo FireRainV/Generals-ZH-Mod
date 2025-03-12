@@ -6,8 +6,12 @@ An enemy GLA Boss Toxin Network looks weird when revealed by stealth detectors.
 
 Terrorists cannot make a car bomb. The reason being is because the civilian army is removed to allow the new bosses to be controllable by a CPU.
 
+When playing as Ultimate Boss General, having more than one command center of the same type will cause issues with the sidebar buttons, you'll have to select your Command Center manually in this case.
+
 
 
 Minor:
 
 Some general voice lines in challenge mode won't be triggered if the new armies are used because only the win condition was added.
+
+Boss generals balancing may still be incomplete, I had no players to test it.
