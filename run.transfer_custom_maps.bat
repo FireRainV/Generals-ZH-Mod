@@ -5,4 +5,5 @@ set "destinationFolder=%userprofile%\Documents\Command and Conquer Generals Zero
 xcopy "%~dp0%sourceFolder%" "%destinationFolder%" /E /I /Y
 
 echo All files and folders have been copied.
+echo.
 pause
