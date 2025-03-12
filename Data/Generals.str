@@ -319,7 +319,7 @@ Color:Blue
 END
 
 Color:Gold
-"Yellow"
+"Gold"
 END
 
 Color:Green
@@ -14975,11 +14975,11 @@ GUI:CancelMapSelect
 END
 
 GUI:CannotConnectToServserv
-"OK"
+"Unable to establish a connection with Command and Conquer Generals Zero Hour servers. Please check your internet connection"
 END
 
 GUI:CannotConnectToServservTitle
-"OK"
+"CANNOT CONNECT"
 END
 
 GUI:CanPatchForOnline
@@ -15051,7 +15051,7 @@ GUI:ChallengeWinText
 END
 
 GUI:CheckingForPatches
-"CANCEL"
+"Checking for Updates"
 END
 
 GUI:Cheer
@@ -15675,7 +15675,7 @@ GUI:GeneralsChallenge
 END
 
 GUI:GeneralsOnline
-"DON'T CLICK"
+"ONLINE"
 END
 
 GUI:GetMapPack
@@ -16463,7 +16463,7 @@ GUI:NetgearDelay
 END
 
 GUI:Network
-"LAN"
+"NETWORK"
 END
 
 GUI:NetworkError
@@ -17235,7 +17235,7 @@ GUI:Side
 END
 
 GUI:SinglePlayer
-"SINGLEPLAYER"
+"SOLO PLAY"
 END
 
 GUI:Skirmish
