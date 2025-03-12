@@ -25794,8 +25794,8 @@ CAMPAIGN:CHALLENGE_11
 "GLA Boss General Challenge"
 END
 
-INI:FactionUltimate
-"Ultimate"
+INI:FactionUltimateBossGeneral
+"Ultimate Boss General"
 END
 
 TOOLTIP:BioStrategyLong_Ulti
@@ -25806,8 +25806,8 @@ GUI:BioFeatures_Ulti
 "All Heroes \n All Super Weapons \n Diverse Generals Powers \n Units drawn from all factions \n General Powers are maxed out \n Sneak Attack unlocked earlier"
 END
 
-SIDE:Ultimate
-"Ultimate"
+SIDE:UltimateBossGeneral
+"Ultimate Boss General"
 END
 
 CONTROLBAR:Ulti_CommandCenterFromShortcut
