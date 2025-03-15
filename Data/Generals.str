@@ -1,5 +1,5 @@
 GUI:Credits
-"FireRainV's Mod - v0.67 (V)"
+"FireRainV's Mod - v0.68 (V)"
 END
 
 ACADEMY:AlternateMouseInterface
@@ -287,7 +287,7 @@ CAMPAIGN:CHALLENGE_8
 END
 
 CAMPAIGN:China
-"USA"
+"China"
 END
 
 CAMPAIGN:GLA
@@ -299,7 +299,7 @@ CAMPAIGN:TRAINING
 END
 
 CAMPAIGN:USA
-"China"
+"USA"
 END
 
 Chat:Allies
@@ -15067,7 +15067,7 @@ GUI:China
 END
 
 GUI:CHINA_Caps
-"USA"
+"CHINA"
 END
 
 GUI:ChinaAllies
@@ -17595,7 +17595,7 @@ GUI:UnlockMaxFPS
 END
 
 GUI:USA
-"CHINA"
+"USA"
 END
 
 GUI:USAAllies
