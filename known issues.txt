@@ -14,4 +14,6 @@ Minor:
 
 Some general voice lines in challenge mode won't be triggered if the new armies are used because only the win condition was added.
 
+The new generals in challenge mode are in the middle of the ocean, haven't figured out how to move them.
+
 Boss generals balancing may still be incomplete, I had no players to test it.
