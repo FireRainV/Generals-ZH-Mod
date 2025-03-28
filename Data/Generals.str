@@ -1,5 +1,5 @@
 GUI:Credits
-"FireRainV's Mod - v0.72 (V)"
+"FireRainV's Mod - v0.73 (V)"
 END
 
 ACADEMY:AlternateMouseInterface
@@ -2971,7 +2971,7 @@ CONTROLBAR:TooltipUSAUpgradeBunkerBusters
 END
 
 CONTROLBAR:TooltipUSAUpgradeChemicalSuits
-"Infantry will become more resistant to toxin and radiation damage"
+"Infantry will become more resistant to toxin, radiation and flash-bang damage"
 END
 
 CONTROLBAR:TooltipUSAUpgradeCompositeArmor
@@ -14451,11 +14451,11 @@ GUI:BioBranchEntry_Pos1
 END
 
 GUI:BioBranchEntry_Pos10
-"US Special Forces"
+"GLA Leader"
 END
 
 GUI:BioBranchEntry_Pos11
-"Unknown"
+"US Special Forces"
 END
 
 GUI:BioBranchEntry_Pos2
@@ -14655,11 +14655,11 @@ GUI:BioFeatures_Pos1
 END
 
 GUI:BioFeatures_Pos10
-"Uses the best of the best \n All units unlocked \n Mixed technologies \n Best of USA \n Advanced defenses \n No weaknesses"
+"Uses the best of the best \n All units unlocked \n Mixed technologies \n Best of GLA \n Advanced defenses \n No weaknesses"
 END
 
 GUI:BioFeatures_Pos11
-"Uses the best of the best \n All units unlocked \n Mixed technologies \n Best of GLA \n Advanced defenses \n No weaknesses"
+"Uses the best of the best \n All units unlocked \n Mixed technologies \n Best of USA \n Advanced defenses \n No weaknesses"
 END
 
 GUI:BioFeatures_Pos2
@@ -14719,11 +14719,11 @@ GUI:BioNameEntry_Pos1
 END
 
 GUI:BioNameEntry_Pos10
-"General Ironside"
+"General Mohmar 'Deathstrike'"
 END
 
 GUI:BioNameEntry_Pos11
-"General Mohmar 'Deathstrike'"
+"General Ironside"
 END
 
 GUI:BioNameEntry_Pos2
@@ -14771,11 +14771,11 @@ GUI:BioRankEntry_Pos1
 END
 
 GUI:BioRankEntry_Pos10
-"5 Star General"
+"Not Applicable"
 END
 
 GUI:BioRankEntry_Pos11
-"Unknown"
+"5 Star General"
 END
 
 GUI:BioRankEntry_Pos2
@@ -24031,11 +24031,11 @@ TOOLTIP:BioStrategyLong_Pos1
 END
 
 TOOLTIP:BioStrategyLong_Pos10
-"General Ironside demands the use of all USA technology to defeat his enemies"
+"General Mohmar 'Deathstrike' demands the use of all GLA technology to defeat his enemies"
 END
 
 TOOLTIP:BioStrategyLong_Pos11
-"General Mohmar 'Deathstrike' demands the use of all GLA technology to defeat his enemies"
+"General Ironside demands the use of all USA technology to defeat his enemies"
 END
 
 TOOLTIP:BioStrategyLong_Pos2
