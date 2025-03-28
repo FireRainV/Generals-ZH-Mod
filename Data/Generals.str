@@ -1,5 +1,5 @@
 GUI:Credits
-"FireRainV's Mod - v0.71 (V)"
+"FireRainV's Mod - v0.72 (V)"
 END
 
 ACADEMY:AlternateMouseInterface
@@ -25868,4 +25868,12 @@ END
 
 CONTROLBAR:ToolTipGLABuildSCUDLauncherNoChoice
 "Launches a powerful SCUD missile \n \n Strong vs. buildings, infantry \n Weak vs. tanks, aircraft"
+END
+
+MAP:TwilightFlameFriendly
+"[Mod] Twilight Flame Friendly"
+END
+
+MAP:ArmyUnlocker
+"[Mod] Army Unlocker"
 END

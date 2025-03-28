@@ -8,12 +8,16 @@ Terrorists cannot make a car bomb. The reason being is because the civilian army
 
 When playing as Ultimate Boss General, having more than one command center of the same type will cause issues with the sidebar buttons, you'll have to select your Command Center manually in this case.
 
+China Boss MiGs start with black naplam, couldn't figure out how to have 2 different weapon upgrades at once. (they're called Super MiGs because of this issue)
+
+USA Boss EMP Laser Patriot have lowered air targeting range and cannot link with other patriots.
+
 
 
 Minor:
 
 Some general voice lines in challenge mode won't be triggered if the new armies are used because only the win condition was added.
 
-The new generals in challenge mode are in the middle of the ocean, haven't figured out how to move them.
-
 Boss generals balancing may still be incomplete, I had no players to test it.
+
+China Boss Emperor Overlord has its bunker upgrade on the top of the tank, it still functions as expected.
