@@ -1,5 +1,5 @@
 GUI:Credits
-"FireRainV's Mod - v0.70 (B)"
+"FireRainV's Mod - v0.71 (B)"
 END
 
 ACADEMY:AlternateMouseInterface
@@ -25884,4 +25884,12 @@ END
 
 CONTROLBAR:ToolTipStandby
 "Order unit to not target enemies at the specified location"
+END
+
+MAP:TwilightFlameFriendly
+"[Mod] Twilight Flame Friendly"
+END
+
+MAP:ArmyUnlocker
+"[Mod] Army Unlocker"
 END
