@@ -12,6 +12,12 @@ China Boss MiGs start with black naplam, couldn't figure out how to have 2 diffe
 
 USA Boss EMP Laser Patriot have lowered air targeting range and cannot link with other patriots.
 
+USA Boss EMP Laser Patriot shouldn't use both laser and missiles at the same time, the main idea was to make the laser finish off with an EMP blast, but couldn't figure it out.
+
+Ultimate Boss General and General Leang (Legacy) are missing general artword when loading the game.
+
+Ultimate Boss General and General Leang (Legacy) are missing AI functionality due to a hardcoded limit in the worldbuilder.
+
 
 
 Minor:
@@ -20,4 +26,6 @@ Some general voice lines in challenge mode won't be triggered if the new armies 
 
 Boss generals balancing may still be incomplete, I had no players to test it.
 
-China Boss Emperor Overlord has its bunker upgrade on the top of the tank, it still functions as expected.
+Opening build-in maps in worldbuilder will give a warning due to having 15 Skirmish Players for CPUs at once.
+
+Custom Sprites are replacing existing sprites position, causing duplicates of sprites in the art files.

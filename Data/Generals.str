@@ -1,5 +1,5 @@
 GUI:Credits
-"FireRainV's Mod - v0.75 (V)"
+"FireRainV's Mod - v0.76"
 END
 
 ACADEMY:AlternateMouseInterface
@@ -25826,19 +25826,19 @@ CONTROLBAR:Ulti_EmergencyRepair
 "Emer&gency Repair"
 END
 
-CONTROLBAR:ChinaBoss_UpgradeHelixNapalmBomb
-"&Nuclear Napalm Bomb"
+CONTROLBAR:ChinaBoss_UpgradeHelixNapalmNuclearBomb
+"&Napalm Nuclear Bomb"
 END
 
-CONTROLBAR:ChinaBoss_ChinaUpgradeHelixNapalmBomb
-"Enables this Helix to drop nuclear napalm bombs"
+CONTROLBAR:ChinaBoss_ChinaUpgradeHelixNapalmNukeBomb
+"Enables this Helix to drop napalm nuclear bombs"
 END
 
-CONTROLBAR:ChinaBoss_DropNapalmBomb
-"&Drop an Nuclear Napalm Bomb"
+CONTROLBAR:ChinaBoss_DropNapalmNuclearBomb
+"&Drop an Napalm Nuclear Bomb"
 END
 
-CONTROLBAR:ChinaBoss_ToolTipDropNapalmBomb
+CONTROLBAR:ChinaBoss_ToolTipDropNapalmNukeBomb
 "Strong against most ground targets \n Drops a mix of napalm and a tactical nuke on the target area"
 END
 
@@ -25856,6 +25856,10 @@ END
 
 OBJECT:ChinaBoss_MIG
 "Super MiG"
+END
+
+UPGRADE:ChinaHelixNapalmNuclearBomb
+"Napalm Nuke Bomb"
 END
 
 CONTROLBAR:Nuke_ToolTipChinaBuildMIG
