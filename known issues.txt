@@ -1,0 +1,31 @@
+Major:
+
+The command center of the new armies is the same as their normal counterpart. However, it will say "Boss Command Center" when hovered by.
+
+An enemy GLA Boss Toxin Network looks weird when revealed by stealth detectors.
+
+Terrorists cannot make a car bomb. The reason being is because the civilian army is removed to allow the new bosses to be controllable by a CPU.
+
+When playing as Ultimate Boss General, having more than one command center of the same type will cause issues with the sidebar buttons, you'll have to select your Command Center manually in this case.
+
+China Boss MiGs start with black naplam, couldn't figure out how to have 2 different weapon upgrades at once. (they're called Super MiGs because of this issue)
+
+USA Boss EMP Laser Patriot have lowered air targeting range and cannot link with other patriots.
+
+USA Boss EMP Laser Patriot shouldn't use both laser and missiles at the same time, the main idea was to make the laser finish off with an EMP blast, but couldn't figure it out.
+
+Ultimate Boss General and General Leang (Legacy) are missing general artwork when loading the game.
+
+Ultimate Boss General and General Leang (Legacy) are missing AI functionality due to a hardcoded limit in the worldbuilder.
+
+
+
+Minor:
+
+Some general voice lines in challenge mode won't be triggered if the new armies are used because only the win condition was added.
+
+Boss generals balancing may still be incomplete, I had no players to test it.
+
+Opening build-in maps in worldbuilder will give a warning due to having 15 Skirmish Players for CPUs at once.
+
+Custom Sprites are replacing existing sprites position, causing duplicates of sprites in the art files.
