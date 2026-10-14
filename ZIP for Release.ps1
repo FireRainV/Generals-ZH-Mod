@@ -8,7 +8,7 @@ $scriptName = Split-Path -Leaf $MyInvocation.MyCommand.Definition
 $desktop = [Environment]::GetFolderPath("Desktop")
 
 # Define output zip path
-$zipPath = Join-Path $desktop "FireRainV.s-Mod.zip"
+$zipPath = Join-Path $desktop "FireRainV.s-GenZH-Mod.zip"
 
 # Add compression assembly
 Add-Type -AssemblyName System.IO.Compression.FileSystem
@@ -22,9 +22,11 @@ if (Test-Path $zipPath) {
 $tempDir = Join-Path $env:TEMP ("ZipTemp_" + [guid]::NewGuid())
 New-Item -ItemType Directory -Path $tempDir | Out-Null
 
-# Copy everything except the script into temp folder
+# Copy everything except the script, .mcr files, and README.md into temp folder
 Get-ChildItem -Path $scriptDir -Recurse | Where-Object {
-    $_.FullName -ne (Join-Path $scriptDir $scriptName)
+    $_.FullName -ne (Join-Path $scriptDir $scriptName) -and
+    $_.Name -notlike "*.mcr" -and
+    $_.Name -ne "README.md"
 } | ForEach-Object {
     $dest = Join-Path $tempDir ($_.FullName.Substring($scriptDir.Length).TrimStart('\'))
     if ($_.PSIsContainer) {
